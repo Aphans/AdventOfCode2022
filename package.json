@@ -1,0 +1,13 @@
+{
+  "name": "Day01 AdventOfCode2022",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dia1_1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aphans",
+  "license": "MIT",
+  "type":"module"
+
+}
